@@ -1,0 +1,36 @@
+.background {
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  background-color: #e5e5f7;
+  opacity: 0.8;
+  background-image: repeating-radial-gradient(
+      circle at 0 0,
+      transparent 0,
+      #25252b 20px
+    ),
+    repeating-linear-gradient(#444cf755, #25252e);
+}
+
+h1 {
+  font-family: "Dancing Script", cursive;
+  color: burlywood;
+  font-size: 80px;
+  margin-bottom: 30px;
+}
+
+b {
+  font-family: "Dancing Script", cursive;
+  color: burlywood;
+}
+
+.text {
+  font-family: "Dancing Script", cursive;
+  color: burlywood;
+}
+
+.textButton {
+  font-family: "Dancing Script", cursive;
+  color: burlywood;
+  margin-bottom: 0%;
+}
